@@ -12,10 +12,10 @@
 ## Implementations
 Two possible implementations; using Array or LinkedList.
 
-|      |     Array          |      LinkedList      |
-|:----:|:------------------:|:--------------------:|
-| Pros | Easy to implement  | Dynamic sizing       | 
-| Cons | No dynamic sizing  | Requires more memory | 
+|          |     Array          |      LinkedList      |
+|:--------:|:------------------:|:--------------------:|
+| **Pros** | Easy to implement  | Dynamic sizing       | 
+| **Cons** | No dynamic sizing  | Requires more memory | 
 
 ```Java
 class ArrayStack {
