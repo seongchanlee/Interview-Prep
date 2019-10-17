@@ -2,6 +2,6 @@
 
 |     Date    |      Name     |                LeetCode Link                |
 |:-----------:|:-------------:|:-------------------------------------------:|
-| August 27th | Binary Search | https://leetcode.com/problems/binary-search |
-|             |               |                                             |
+| Aug. 27th   | Binary Search | https://leetcode.com/problems/binary-search |
+| Oct. 16th   | Stack         | N/A                                         |
 |             |               |                                             |
