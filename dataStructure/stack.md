@@ -1,7 +1,7 @@
 # Stack
 
 ## Description
-* Uses LIFO (Last In First Out) principle
+* Uses **LIFO (Last In First Out)** principle
 * **push()** to add & **pop()** to remove
 
 ## Application
