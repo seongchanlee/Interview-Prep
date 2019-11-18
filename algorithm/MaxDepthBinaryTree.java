@@ -19,7 +19,7 @@ class MaxDepthBinaryTree {
     int leftDepth = maxDepth(root.left);
     int rightDepth = maxDepth(root.right);
 
-    // compare and return the ,ax depth
+    // compare and return the max depth
     if (leftDepth > rightDepth) {
       return leftDepth;
     } else {
